@@ -2,7 +2,7 @@
 # Parallelism with MareNostrum
 UPC parallelism course 
 
-##Problems solved 
+## Problems solved 
 
 #### - [Mandelbrot set](/Lab/Lab3) 
 #### - [Sorting](/Lab/Lab3)
